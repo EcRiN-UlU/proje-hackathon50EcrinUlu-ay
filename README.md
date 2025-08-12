@@ -1,9 +1,21 @@
 # proje-hackathon50EcrinUlu-ay
-# Yapay Zeka Destekli Alışkanlık Asistanı
-Bu proje, kullanıcıların kendi zaman kullanım alışkanlıklarını yapay zeka destekli rehberlik ile bilinçli şekilde yönetmelerine yardımcı olan, dostça ve kişiselleştirilmiş uyarılarla yönlendiren bir web platformudur. Kullanıcı gün içerisindeki aktivitelerini ve öncelikli hedeflerini sisteme girer; yapay zeka, bu verileri analiz ederek hedeflerin ihmal edilmesi veya zamanın verimsiz kullanılması durumunda samimi, motive edici ve kullanıcıya özel mesajlar gönderir. Böylece kullanıcı, teknolojiyi bir denetleyici değil, anlayan ve destekleyen bir yardımcı rehber olarak deneyimler.
+# Yapay Zeka Destekli Eğitim Alışkanlığı Asistanı
 
-Proje, özellikle eğitim ve üretkenlik odaklı alışkanlıklar ve davranışlar geliştirmek isteyenler için faydalıdır çünkü içeriğindeki yapay zeka sayesinde öz farkındalığı artırır, kişiye özel planlama ve motivasyon sağlar ve zamanı verimli kullanma alışkanlığı kazandırır.
+## Proje Ne İşe Yarıyor?
 
-Başlamak için kullanıcı, kayıt olup günlük hedeflerini ve aktivitelerini sisteme ekler; ardından yapay zekanın rehberliğinde günlük değerlendirme ve iyileştirme adımlarını takip eder.
+Bu proje, kullanıcıların özellikle eğitim alanındaki zaman ve çalışma alışkanlıklarını yapay zeka destekli rehberlik ile bilinçli şekilde yönetmelerine yardımcı olan, dostça ve kişiselleştirilmiş uyarılarla yönlendiren bir web platformudur. Kullanıcı, ders çalışma, okuma, soru çözme gibi eğitim odaklı aktivitelerini ve öncelikli öğrenme hedeflerini sisteme girer; yapay zeka, bu verileri analiz ederek hedeflerin ihmal edilmesi veya verimsiz zaman kullanımında samimi, motive edici ve kullanıcıya özel mesajlar gönderir. Böylece kullanıcı, teknolojiyi bir denetleyici değil, anlayan ve destekleyen bir yardımcı olarak deneyimler.
 
-Bu proje sayesinde kullanıcılar, hedefledikleri verimliliğe ve aktifliğe daha kolay ulaşabilirler.
+## Projenin Yararları Neler?
+
+- Öğrencilerin ve öğrenenlerin öz farkındalığını artırır.  
+- Planlama ve zaman yönetimi becerilerini geliştirir.  
+- Eğitim süreçlerinde verimliliği artırır.  
+- Yapay zeka destekli dostça uyarılar ile motivasyonu yüksek tutar.
+
+## Kullanıcılar Projeye Nasıl Başlayabilir?
+
+1. Platforma kayıt olur veya misafir olarak giriş yapar.  
+2. Günlük veya haftalık eğitim hedeflerini ve alışkanlıklarını sisteme ekler.  
+3. Gün içinde eğitim aktivitelerini (örneğin, ders çalışma, okuma) manuel olarak girer.  
+4. Gün sonunda sistem tarafından verilen samimi ve yapıcı geri bildirimleri alır ve değerlendirir.  
+5. Yapay zekanın rehberliğinde alışkanlıklarını geliştirmeye devam eder.
